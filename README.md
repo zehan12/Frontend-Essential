@@ -114,6 +114,15 @@
 - https://shortpixel.com/
 - https://tinypng.com/
 
+## Animations
+- https://animate.style/
+- https://all-animation.github.io/animations/
+- https://www.minimamente.com/project/magic/
+- https://ianlunn.github.io/Hover/#effects
+- https://animista.net/
+
+
+
 ---
 
 ### If you like it. Don't forget to give star ⭐
