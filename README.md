@@ -121,6 +121,25 @@
 - https://ianlunn.github.io/Hover/#effects
 - https://animista.net/
 
+## Tailwind 
+- https://tailwindcomponents.com/
+- https://tailwindui.com/components/application-ui/forms/textareas
+- https://preline.co/docs/input-group.html
+- https://www.tailwind-kit.com/components/feature
+- https://kimia-ui.vercel.app/components/field
+- https://www.hyperui.dev/components/application-ui/alerts
+- https://merakiui.com/components/forms
+- https://tailwinduikit.com/components/E-commerce/Components/banners
+- https://xtendui.com/components/form
+- https://tailwind-elements.com/docs/standard/components/buttons/
+- https://headlessui.com/react/disclosure
+- https://mambaui.com/components/loading
+- https://flowbite.com/docs/components/
+- https://freefrontend.com/
+- https://devdojo.com/
+- https://tailgrids.com/components/tooltips
+- https://tailwindcomponents.com/
+
 
 
 ---
