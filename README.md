@@ -139,6 +139,8 @@
 - https://devdojo.com/
 - https://tailgrids.com/components/tooltips
 - https://tailwindcomponents.com/
+- https://www.youtube.com/watch?v=EcNXSlcGG_I
+- https://www.youtube.com/watch?v=tXlZCW26bto
 
 
 
