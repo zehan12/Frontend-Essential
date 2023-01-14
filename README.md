@@ -139,10 +139,11 @@
 - https://devdojo.com/
 - https://tailgrids.com/components/tooltips
 - https://tailwindcomponents.com/
+
+## react-slcik-carousel
 - https://www.youtube.com/watch?v=EcNXSlcGG_I
 - https://www.youtube.com/watch?v=tXlZCW26bto
-
-
+- https://www.youtube.com/watch?v=vyLmrr1JRkQ&list=PLd_O45yltBqcW35UKwfGHVVuQ2ZQ4PWsj&index=4
 
 ---
 
