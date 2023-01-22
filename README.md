@@ -124,6 +124,7 @@
 ## Tailwind 
 - https://tailwindcomponents.com/
 - https://tailwindui.com/components/application-ui/forms/textareas
+- https://layoutsfortailwind.lalokalabs.dev/ui/layout-sidebar/
 - https://preline.co/docs/input-group.html
 - https://www.tailwind-kit.com/components/feature
 - https://kimia-ui.vercel.app/components/field
@@ -139,6 +140,16 @@
 - https://devdojo.com/
 - https://tailgrids.com/components/tooltips
 - https://tailwindcomponents.com/
+- https://kutty.netlify.app/components/
+- https://postsrc.com/components
+- https://tailblocks.cc/
+- https://github.com/unlight/tailwind-components
+- https://phantomui.com/
+- https://www.tailwindreact.com/application-ui/forms/radio-groups
+- https://kitwind.io/products/kometa/components/contents
+- https://www.tailwindtoolbox.com/starter-templates
+- https://a17t.miles.land/layout/car
+- 
 
 ## react-slcik-carousel
 - https://www.youtube.com/watch?v=EcNXSlcGG_I
