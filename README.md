@@ -43,6 +43,15 @@
 - https://trianglify.io/
 - http://ourownthing.co.uk/gradpad.html
 
+## parterns
+
+- https://heropatterns.com/
+- https://doodad.dev/pattern-generator/
+- https://10015.io/tools/css-background-pattern-generator
+- https://www.kindacode.com/snippet/tailwind-css-create-a-button-with-gradient-background/
+- https://www.gradient-animator.com/
+- https://www.gradient-animator.com/
+
 ## 🚀 Sass
 
 - http://scout-app.io/
